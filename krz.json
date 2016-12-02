@@ -1,0 +1,10 @@
+{
+    "first" : "Bob",
+    "last" : "Krzaczek",
+    "email" : "Robert.Krzaczek@gmail.com",
+    "lucky" : 13,
+    "quarter" : 0.25,
+    "empty" : null,
+    "nerd" : true,
+    "lotto" : [ 9, 12, 17, 38, 45, 46 ]
+}
